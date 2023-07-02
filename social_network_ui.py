@@ -2,9 +2,8 @@
 
 def mainMenu():
     print("")
-    print("1. Create a new account")
-    print("2. Manage my account")
-    print("3. Quit")
+    print("1. Explore all the different aspects of the AI Social Network")
+    print("2. Quit")
     print("********************************************************")
     return input("Please Choose a number: ")
 
@@ -13,6 +12,10 @@ def manageAccountMenu():
     print("1. Edit my details")
     print("2. Add a friend")
     print("3. View all my friends")
-    print("4. View all my messages")
-    print("5. <- Go back ")
+    print("4. Block friends")
+    print("5. Send a message to a friend")
+    print("6. View messages I have recieved")
+    print("7. View messages I have sent")
+    print("8. <- Go back ")
     return input("Please Choose a number: ")
+

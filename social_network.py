@@ -68,7 +68,7 @@ if __name__ == "__main__":
                     if messeges == "Nathan":
                         messegesNathan = input("type the messege you would like to send to Nathan here:")
                     elif messeges == "Mary":
-                        messegesMary = input("type the messege you would like to send to Nathan here:")
+                        messegesMary = input("type the messege you would like to send to Mary here:")
 
                     else:
                         print("The person you entered is not in your friendslist")
